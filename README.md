@@ -1,4 +1,6 @@
-# Template Playground
+# google-cloud-skills-boost
+
+Learning notes of lab challenges on google-cloud-skills-boost
 
 <p align="center">
   <img style="width:60%;" src="https://i.imgur.com/Qe3Dzt6.png">
