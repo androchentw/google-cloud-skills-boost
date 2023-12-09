@@ -1,6 +1,11 @@
-# GSP037: Detect Labels, Faces, and Landmarks in Images with the Cloud Vision API
+# GSP037 - Detect Labels, Faces, and Landmarks in Images with the Cloud Vision API
 
-* [GSP037: Detect Labels, Faces, and Landmarks in Images with the Cloud Vision API](https://www.cloudskillsboost.google/games/4713/labs/30673)
+[GSP037: Detect Labels, Faces, and Landmarks in Images with the Cloud Vision API](https://www.cloudskillsboost.google/games/4713/labs/30673)
+
+The Cloud Vision API is a cloud-based service that allows you to analyze images and extract information. It can be used to detect objects, faces, and text in images. The Cloud Vision API lets you understand the content of an image by encapsulating powerful machine learning models in a simple REST API.
+
+In this lab, you will send images to the Cloud Vision API and see it detect objects, faces, and landmarks.
+
 * Create a Cloud Vision API request and calling the API with curl
 * Use the label, face, and landmark detection methods of the API
 
