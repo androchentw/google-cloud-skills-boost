@@ -25,19 +25,19 @@ Here are some specific examples of how generative AI is being used with basketba
 
 ## Task 3. Context is Key
 
-* Click on the `Friday Films` persona
+* Click on the `Bayesian Basketball` persona
 
 ```text
 Hello
 
 # topic
-What do you know about Film?
+What do you know about Basketball?
 
 # list
-What do you know about the Best Screenplay?
+What do you know about the Australia Basketball?
 
 # item
-What can you tell me about 12 Angry Men?
+What can you tell me about Brisbane Bullets?
 
 # list
 Who won the Best Screenplay in 2023?
@@ -47,17 +47,17 @@ Who won the Best Screenplay in 2023?
 
 ```text
 # list
-What is important to know about the Best Screenplay ?
+What is important to know about the Australia Basketball ?
 
 # topic, list
-Where can I find out more information on Film and Best Screenplay?
+Where can I find out more information on Basketball and Australia Basketball?
 
 # item
-Who is the most famous person associated with 12 Angry Men ?
+Who is the most famous person associated with Brisbane Bullets ?
 
-Can you itemize five things about 12 Angry Men ?
+Can you itemize five things about Brisbane Bullets ?
 
-Can you write a five line poem about 12 Angry Men ?
+Can you write a five line poem about Brisbane Bullets ?
 ```
 
 ## Task 5. Taking the Assessment
