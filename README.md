@@ -11,7 +11,7 @@ Learning notes of lab challenges on google-cloud-skills-boost
 
 ## Learning Paths
 
-* [Google Cloud Computing Foundations](https://www.cloudskillsboost.google/paths/36)
+* [Google Cloud Computing Foundations](Google-Cloud-Computing-Foundations/README.md)
 * [Cloud Engineer Learning Path](https://www.cloudskillsboost.google/paths/11)
 * [Cloud Architect Learning Path](https://www.cloudskillsboost.google/paths/12)
 * [DevOps Engineer, SRE Learning Path](https://www.cloudskillsboost.google/paths/20)
