@@ -17,7 +17,6 @@ Learning notes of lab challenges on google-cloud-skills-boost
 * [DevOps Engineer, SRE Learning Path](https://www.cloudskillsboost.google/paths/20)
 * [Data Engineer Learning Path](https://www.cloudskillsboost.google/paths/16)
 
-
 ## Contribute
 
 * [LICENSE](LICENSE)
