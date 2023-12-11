@@ -1,6 +1,6 @@
 # ARC107 - Generative AI Film Chatbot
 
-In this lab you will learn the fundamentals of prompt engineering for `topic` using Generative AI and Google Cloud.
+In this lab you will learn the fundamentals of prompt engineering for `film` using Generative AI and Google Cloud.
 
 In this lab learn use a chat application to interact and learn:
 
@@ -18,7 +18,7 @@ In this lab learn use a chat application to interact and learn:
 * Creating special effects
 * Editing films
 
-Here are some specific examples of how generative AI is being used with film today:
+Here are some specific examples of how generative AI is being used with `film` today:
 
 * The film "Everything Everywhere All at Once" used generative AI to create some of the film's most visually stunning scenes.
 * The film "Spider-Man: No Way Home" used generative AI to create some of the film's most challenging special effects, such as the scene where the three Spider-Men fight each other.

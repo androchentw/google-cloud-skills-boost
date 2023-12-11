@@ -1,6 +1,6 @@
 # ARC107 - Generative AI Film Chatbot
 
-In this lab you will learn the fundamentals of prompt engineering for `topic` using Generative AI and Google Cloud.
+In this lab you will learn the fundamentals of prompt engineering for `basketball` using Generative AI and Google Cloud.
 
 In this lab learn use a chat application to interact and learn:
 
@@ -17,7 +17,7 @@ In this lab learn use a chat application to interact and learn:
 * Improving performance analysis
 * Creating new basketball content
 
-Here are some specific examples of how generative AI is being used with basketball today:
+Here are some specific examples of how generative AI is being used with `basketball` today:
 
 * The NBA is using generative AI to develop new training programs for its players. The NBA is also using generative AI to identify patterns in past games and then use these patterns to develop new strategies.
 * A number of basketball teams are using generative AI to generate realistic training data for their players. This is helping players to improve their skills and tactics in a safe and controlled environment.
