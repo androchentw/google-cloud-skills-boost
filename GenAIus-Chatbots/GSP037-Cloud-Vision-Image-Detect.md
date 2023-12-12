@@ -11,6 +11,8 @@ In this lab, you will send images to the Cloud Vision API and see it detect obje
 
 ## Task 1. Create an API key
 
+* APIs & Services > Credentials > Create Credentials > API key
+
 ```sh
 export API_KEY=<YOUR_API_KEY>
 ```
