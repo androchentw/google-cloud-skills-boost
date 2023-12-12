@@ -1,5 +1,7 @@
 # ARC108 - Generative AI Music Chatbot
 
+[ARC108 - Generative AI Music Chatbot](https://www.cloudskillsboost.google/games/4713/labs/30679)
+
 In this lab you will learn the fundamentals of prompt engineering for `music` using Generative AI and Google Cloud.
 
 In this lab learn use a chat application to interact and learn:

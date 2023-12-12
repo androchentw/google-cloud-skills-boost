@@ -1,4 +1,6 @@
-# ARC107 - Generative AI Film Chatbot
+# ARC104 - Generative AI Basketball Chatbot
+
+[ARC104 - Generative AI Basketball Chatbot](https://www.cloudskillsboost.google/games/4713/labs/30676)
 
 In this lab you will learn the fundamentals of prompt engineering for `basketball` using Generative AI and Google Cloud.
 

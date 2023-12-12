@@ -1,5 +1,7 @@
 # ARC107 - Generative AI Film Chatbot
 
+[ARC107 - Generative AI Film Chatbot](https://www.cloudskillsboost.google/games/4713/labs/30675)
+
 In this lab you will learn the fundamentals of prompt engineering for `film` using Generative AI and Google Cloud.
 
 In this lab learn use a chat application to interact and learn:
