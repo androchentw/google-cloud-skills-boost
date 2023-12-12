@@ -1,5 +1,7 @@
 # GSP002 - Getting Started with Cloud Shell and gcloud
 
+[GSP002 - Getting Started with Cloud Shell and gcloud](https://www.cloudskillsboost.google/course_sessions/6826066/labs/376189)
+
 ## Task 1. Configuring your environment
 
 ```sh
