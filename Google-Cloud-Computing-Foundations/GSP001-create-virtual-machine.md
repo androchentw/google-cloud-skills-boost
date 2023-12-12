@@ -4,6 +4,10 @@
 
 ## Task 1. Create a new instance from the Cloud console
 
+```sh
+gcloud config set compute/zone us-west1-c
+```
+
 ## Task 2. Install an NGINX web server
 
 ```sh
@@ -17,7 +21,6 @@ http://EXTERNAL_IP/
 ## Task 3. Create a new instance with gcloud
 
 ```sh
-export ZONE=us-west1-c
 gcloud compute instances create gcelab2 --machine-type e2-medium --zone=$ZONE
 gcloud compute ssh gcelab2 --zone=$ZONE
 ```
