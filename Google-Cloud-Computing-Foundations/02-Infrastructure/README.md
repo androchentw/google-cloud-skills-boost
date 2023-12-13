@@ -10,3 +10,11 @@
 ## There's an API for that
 
 * [Pub/Sub](https://www.youtube.com/watch?v=Q_yUa1mWPQU)
+
+## You can't secure the cloud, right?
+
+* [Security in the cloud](https://www.youtube.com/watch?v=WDVLDbzmYZA)
+
+## Further
+
+* [GSP315 - Perform Foundational Infrastructure Tasks in Google Cloud: Challenge Lab](https://www.cloudskillsboost.google/focuses/10379?parent=catalog&utm_source=qwiklabs&utm_campaign=skillbadge&utm_medium=lp)
