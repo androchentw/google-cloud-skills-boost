@@ -8,3 +8,5 @@
 * [Structured and unstructured data storage](https://www.youtube.com/watch?v=ktuXFWI8zvQ)
 
 ## There's an API for that
+
+* [Pub/Sub](https://www.youtube.com/watch?v=Q_yUa1mWPQU)
