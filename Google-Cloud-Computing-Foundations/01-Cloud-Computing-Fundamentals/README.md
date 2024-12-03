@@ -22,3 +22,7 @@
 ## Cloud Run
 
 * [Managed serverless computing with Cloud Run](https://www.youtube.com/watch?v=KP84XvWHLqo)
+
+## Further
+
+* [GSP313 - Create and Manage Cloud Resources: Challenge Lab](https://www.cloudskillsboost.google/focuses/10258?parent=catalog&utm_source=qwiklabs&utm_campaign=skillbadge&utm_medium=lp)
